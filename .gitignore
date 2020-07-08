@@ -3,4 +3,7 @@ db.sqlite3
 /static
 /media
 .idea
-.vscode
+.vscodesendgrid.env
+sendgrid.env
+env.sh
+.env
