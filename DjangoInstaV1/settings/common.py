@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
+    'django.contrib.humanize',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
@@ -47,6 +48,7 @@ INSTALLED_APPS = [
     'django_pydenticon',
     'bootstrap4',
     'debug_toolbar',
+    'easy_thumbnails',
     # Locals Apps
     'accounts',
     'instagram',

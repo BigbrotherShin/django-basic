@@ -7,3 +7,4 @@ db.sqlite3
 sendgrid.env
 env.sh
 .env
+migrations
